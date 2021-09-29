@@ -7,4 +7,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: demoopenshift/hello-gitops
-  newTag: acee4e45bc382b54ca00e3571c485630e653d141
+  newTag: 038e072d058a618ec6d2e0ea885c0785ef7668a6
